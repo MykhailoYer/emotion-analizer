@@ -1,1 +1,1 @@
-# Repository for final project
+# Emotion analizer using the Watson NLP library
